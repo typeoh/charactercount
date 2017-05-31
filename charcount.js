@@ -21,7 +21,6 @@ function countLengths(str){
     } else {
       chars[letter] = chars[letter] +  1;
     }
-    console.log(chars)
   }
   return chars;
 }
